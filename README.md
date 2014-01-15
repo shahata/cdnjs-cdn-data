@@ -1,4 +1,4 @@
-# google-cdn-data
+# cdnjs-cdn-data [![Build Status](https://travis-ci.org/shahata/cdnjs-cdn-data.png)](https://travis-ci.org/shahata/cdnjs-cdn-data)
 
 > [CDNJS](http://cdnjs.com/) data for [google-cdn](https://github.com/passy/google-cdn).
 

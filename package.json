@@ -4,7 +4,7 @@
   "description": "CDNJS CDN Data for google-cdn",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -22,7 +22,9 @@
   ],
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-release": "~0.6.0"
+    "grunt-release": "~0.6.0",
+    "chai": "~1.8.1",
+    "mocha": "~1.17.0"
   },
   "dependencies": {
     "semver": "~2.2.1"
