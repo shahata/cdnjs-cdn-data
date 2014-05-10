@@ -1,6 +1,6 @@
 {
   "name": "cdnjs-cdn-data",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CDNJS CDN Data for google-cdn",
   "main": "index.js",
   "scripts": {

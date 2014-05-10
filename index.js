@@ -4,7 +4,7 @@ var semver = require('semver');
 
 var data = module.exports = {};
 
-var cdnjs = require('./external/cdnjs.json').packages;
+var cdnjs = require('./external/cdnjs.json').results;
 
 cdnjs.forEach(function (item) {
   data[item.name] = {
